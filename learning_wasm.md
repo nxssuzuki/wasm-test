@@ -55,6 +55,7 @@ Firefox, Chrome, Safari, Edgeで実行可能。
 
 ![EmscriptenでC/C++のソースコードをコンパイルし、WASMモジュールとそれを呼び出すjsコードを生成する](https://mdn.mozillademos.org/files/14647/emscripten-diagram.png)
 
+※ [WebAssemblyのコンセプト | MDN](https://developer.mozilla.org/ja/docs/WebAssembly/Concepts)の画像を流用。
 
 ### Cの関数をJSから呼ぶには
 
